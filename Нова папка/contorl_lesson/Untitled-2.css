@@ -1,0 +1,630 @@
+
+.Frame {
+position: absolute;
+height: 216px;
+left: -5%;
+right: 28.58%;
+top: 142px;
+}
+.Frame2 {
+    position: absolute;
+height: 216px;
+left: 14.58%;
+right: 18.58%;
+top: 142px;
+}
+.Frame3 {
+    position: absolute;
+    height: 34px;
+    left: 0.12%;
+    right: 50.24%;
+    top: 177px;
+}
+.Text1  {
+    position: absolute;
+height: 15px;
+left: 8.76%;
+right: 8.76%;
+top: 0px;
+font-family: RoadRadio;
+font-style: normal;
+font-weight: 900;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height, or 120% */
+
+letter-spacing: 1px;
+
+color: #000000;
+
+}
+
+.Rectangle {
+    position: absolute;
+height: 34px;
+left: -4%;
+right: -1%;
+top: -72px;
+
+border: 2px solid #000000;
+box-sizing: border-box;
+border-radius: 20px;
+}
+.Text2 {
+    position: absolute;
+height: 100px;
+left: 0.12%;
+right: 8.94%;
+top: -225px;
+
+font-family: Athletics;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 33px;
+/* or 95% */
+
+
+color: #000000;
+
+}
+.Frame4 {
+    position: absolute;
+height: 48px;
+left: 0.12%;
+right: -0.12%;
+top: 114px;
+}
+.Rectangle2 {
+    position: absolute;
+height: 48px;
+left: 0%;
+right: 0%;
+top: 0px;
+
+border-radius: 0px;
+}
+.Text3{
+    position: absolute;
+height: 51px;
+left: 0%;
+right: 2.59%;
+top: -200px;
+
+font-family: Athletics;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+/* or 120% */
+
+
+color: #000000;
+}
+.Kvadrat {
+    position: absolute;
+    height: 500px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+    
+    background: #FFFFFF;
+    border-radius: 0px;
+}
+.Rectangle3 {
+    position: absolute;
+height: 500px;
+left: 50.67%;
+right: 0%;
+top: 0px;
+
+background: url(Rectangle.png);
+border-radius: 0px;
+}
+.Frame {
+    min-width: 936px;
+}
+.Rectangle3 {
+    min-width: 1920px;
+}
+
+
+
+
+
+
+.Rectangle4 {
+    position: absolute;
+height: 423px;
+left: 0%;
+right: 52.57%;
+top: 600px;
+
+background: url(Rectangle2.png);
+border-radius: 0px;
+}
+.Frame5 {
+    position: absolute;
+height: 500px;
+left: 0%;
+right: 0%;
+top: 1200px;
+
+}
+.Frame6 {
+    position: absolute;
+height: 500px;
+left: 0%;
+right: 0%;
+top: 0px;
+}
+.Frame7 {
+    position: absolute;
+height: 500px;
+left: 58.4%;
+right: -0.07%;
+top: 0px;
+}
+.Frame8 {
+    position: absolute;
+height: 167px;
+left: 13.3%;
+right: 13.36%;
+top: 166.5px;
+
+}
+.Frame9 {
+    position: absolute;
+    height: 34px;
+    left: 0.04%;
+    right: 49.5%;
+    top: 128.5px;
+      
+}
+.Rectangle5 {
+    position: absolute;
+    height: 34px;
+    left: -60%;
+    right: 10%;
+    top: -600px;
+    
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    border-radius: 20px;
+
+}
+.Text4 {
+    position: absolute;
+height: 15px;
+left: 7.66%;
+right: -20.66%;
+top: 9px;
+
+font-family: RoadRadio;
+font-style: normal;
+font-weight: 900;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height, or 120% */
+
+letter-spacing: 1px;
+
+color: #000000;
+}
+.Text5 {
+    position: absolute;
+height: 67px;
+left: 0.04%;
+right: 3.59%;
+top: -200px;
+
+font-family: Athletics;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 33px;
+/* or 95% */
+
+
+color: #000000;
+}
+.Frame10 {
+    position: absolute;
+height: 34px;
+left: 53.91%;
+right: 5.64%;
+top: 128.5px;
+
+}
+.Rectangle6 {
+position: absolute;
+height: 34px;
+left: 125%;
+right: -170%;
+top: -131px;
+
+border: 2px solid #000000;
+box-sizing: border-box;
+border-radius: 20px;
+}
+.Text6 {
+    position: absolute;
+height: 10px;
+left: 5.55%;
+right: -5.55%;
+top: 10px;
+
+font-family: RoadRadio;
+font-style: normal;
+font-weight: 900;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height, or 120% */
+
+letter-spacing: 1px;
+
+color: #000000;
+}
+.Frame11 {
+    position: absolute;
+height: 32px;
+left: 0.04%;
+right: -0.04%;
+top: 81.5px;
+
+}
+.Rectangle7 {
+    position: absolute;
+height: 32px;
+left: -138%;
+right: 10%;
+top: 10px;
+
+border-radius: 0px;
+}
+.Text7 {
+    position: absolute;
+    height: 34px;
+    left: -19%;
+    right: -2.05%;
+    top: -175px;
+    
+    font-family: Athletics;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    /* or 120% */
+    
+    
+    color: #000000;  
+}
+.Frame5 {
+    min-width: 1400px;
+}
+.Rectangle4 {
+    min-width: 1400px;
+}
+
+
+
+.Stage1 {
+    position: absolute;
+    height: 600px;
+width: 1440px;
+left: 0px;
+top: 1700px;
+border-radius: 0px;
+
+}
+.Stage2 {
+    position: absolute;
+    height: 600px;
+width: 1440px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+
+}
+.Stage3 {
+position: absolute;
+height: 600px;
+width: 840px;
+left: 648px;
+top: 8px;
+border-radius: 0px;
+
+}
+.Stage4 {
+position: absolute;
+height: 303px;
+width: 550px;
+left: 255px;
+top: -450px;
+border-radius: 0px;
+
+}
+.ph {
+    position: absolute;
+    height: 41px;
+width: 100px;
+left: 296px;
+top: 129px;
+border-radius: 0px;
+
+background: url(.png);
+border-radius: 0px;
+}
+.ph1 {
+    position: absolute;
+    height: 24px;
+    width: 88px;
+    left: 302px;
+    top: 274px;
+    border-radius: 0px;
+    
+background: url(.png);
+border-radius: 0px;
+}
+.ph2 {
+    position: absolute;
+    height: 44px;
+    width: 70px;
+    left: 311px;
+    top: 0px;
+    border-radius: 0px;
+    
+
+background: url(.png);
+border-radius: 0px;
+}
+.ph3 {
+    position: absolute;
+    height: 65px;
+    width: 94px;
+    left: 299px;
+    top: 187px;
+    border-radius: 0px;
+    
+
+background: url(.png);
+border-radius: 0px;
+}
+.ph4 {
+    position: absolute;
+    height: 51px;
+    width: 77px;
+    left: 308px;
+    top: 62px;
+    border-radius: 0px;
+    
+
+background: url(.png);
+border-radius: 0px;
+}
+.ph5 {
+    position: absolute;
+    height: 36px;
+    width: 87px;
+    left: 19px;
+    top: 267px;
+    border-radius: 0px;
+    
+background: url(.png);
+border-radius: 0px;
+}
+.ph6 {
+    position: absolute;
+    height: 22px;
+    width: 100px;
+    left: 13px;
+    top: 208px;
+    border-radius: 0px;
+    
+
+background: url(.png);
+border-radius: 0px;
+}
+.ph7 {
+    position: absolute;
+    height: 41px;
+    width: 100px;
+    left: 13px;
+    top: 130px;
+    border-radius: 0px;
+    
+
+background: url(.png);
+border-radius: 0px;
+}
+.ph8 {
+    position: absolute;
+    height: 25px;
+    width: 100px;
+    left: 13px;
+    top: 74px;
+    border-radius: 0px;
+    
+
+background: url(.png);
+border-radius: 0px;
+}
+.ph9 {
+    position: absolute;
+    height: 26px;
+    width: 100px;
+    left: 13px;
+    top: 9px;
+    border-radius: 0px;
+    
+background: url(.png);
+border-radius: 0px;
+}
+.ph10 {
+    position: absolute;
+    height: 23px;
+    width: 100px;
+    left: 155px;
+    top: 274px;
+    border-radius: 0px;
+    
+background: url(.png);
+border-radius: 0px;
+}
+.ph11 {
+    position: absolute;
+    height: 42px;
+    width: 100px;
+    left: 438px;
+    top: 198px;
+    border-radius: 0px;
+    
+background: url(.png);
+border-radius: 0px;
+}
+.ph12 {
+    position: absolute;
+    height: 40px;
+    width: 100px;
+    left: 155px;
+    top: 199px;
+    border-radius: 0px;
+    
+
+background: url(.png);
+border-radius: 0px;
+}
+.ph13 {
+    position: absolute;
+    height: 30px;
+    width: 100px;
+    left: 438px;
+    top: 135px;
+    border-radius: 0px;
+    
+
+background: url(.png);
+border-radius: 0px;
+}
+.ph14 {
+    position: absolute;
+    height: 38px;
+    width: 94px;
+    left: 158px;
+    top: 131px;
+    border-radius: 0px;
+    
+
+background: url(.png);
+border-radius: 0px;
+}
+.ph15 {
+    position: absolute;
+    height: 23px;
+    width: 99px;
+    left: 438px;
+    top: 76px;
+    border-radius: 0px;    
+
+background: url(.png);
+border-radius: 0px;
+}
+.ph16 {
+    position: absolute;
+    height: 53px;
+    width: 47px;
+    left: 181px;
+    top: 60px;
+    border-radius: 0px;    
+
+background: url(.png);
+border-radius: 0px;
+}
+.ph17 {
+    position: absolute;
+    height: 27px;
+    width: 100px;
+    left: 438px;
+    top: 9px;
+    border-radius: 0px;
+    
+background: url(.png);
+border-radius: 0px;
+}
+.ph18 {
+    position: absolute;
+    height: 28px;
+    width: 78px;
+    left: 165px;
+    top: 9px;
+    border-radius: 0px;    
+
+background: url(.png);
+border-radius: 0px;
+}
+.Stage5 {
+    position: absolute;
+    height: 303px;
+    width: 550px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    
+
+border-radius: 0px;
+}
+.Freak {
+    position: absolute;
+    height: 600px;
+    width: 600px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+
+}
+.Freak1 {
+    position: absolute;
+    height: 341px;
+    width: 450px;
+    left: 66px;
+    top: 130px;
+    border-radius: 0px;
+    
+}
+.FreakTxt {
+    position: absolute;
+    height: 193px;
+    width: 450px;
+    left: 0px;
+    top: -450px;
+    border-radius: 0px;
+    
+    font-family: Athletics;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+color: #000000;
+}
+.Freak3 {
+    position: absolute;
+    height: 341px;
+    width: 450px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+
+}
+.Freak2 {
+    position: absolute;
+    height: 137px;
+    width: 137px;
+    left: -15px;
+    top: -575px;
+    border-radius: 0px;
+    
+border-radius: 0px;
+}
